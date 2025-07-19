@@ -15,4 +15,4 @@
 
 
 
-*Always exploring new challenges and learning opportunities!*  
+I’m always open to collaboration and new opportunities in Python & Data Science. 
