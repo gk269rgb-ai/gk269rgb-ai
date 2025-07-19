@@ -6,7 +6,7 @@
 
 ## 📌 Projects
 - [Real Time Fault Analysis](https://github.com/gk269rgb-ai/real-time-fault-classification
-) - DatasetPreparation, Model, Simulink, Real Time Fault Prediction
+) - Data Acquisition, Preprocessing, Modeling, Deployment in real world
 - [Market Data Analysis](https://github.com/gk269rgb-ai/market-data-analysis) — Fetch, clean, visualize financial data  
 - [Simple Backtesting Engine](https://github.com/gk269rgb-ai/simple-backtesting-engine) — Implemented SMA crossover strategy  
 - [Python DSA Practice](https://github.com/gk269rgb-ai/python-dsa-practice) — My clean DSA codes in Python  
