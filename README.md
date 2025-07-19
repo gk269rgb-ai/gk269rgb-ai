@@ -5,7 +5,7 @@
 💻 Currently building Python tools for data analytics and trading systems  
 
 ## 📌 Projects
-- [Market Data Analysis](https://github.com/yourusername/market-data-analysis) — Fetch, clean, visualize financial data  
+- [Market Data Analysis](https://github.com/gk269rgb-ai/market-data-analysis) — Fetch, clean, visualize financial data  
 - [Simple Backtesting Engine](https://github.com/yourusername/simple-backtesting-engine) — Implemented SMA crossover strategy  
 - [Python DSA Practice](https://github.com/yourusername/python-dsa-practice) — My clean DSA codes in Python  
 
