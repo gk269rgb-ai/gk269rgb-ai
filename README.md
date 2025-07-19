@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Gunjan Kumar  
 
-<!--
-**gk269rgb-ai/gk269rgb-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineer (IITRAM, 2025) | Python & Data Enthusiast  
+🔬 Passionate about Data Analysis, Algorithmic Trading, and AI-based Applications  
+💻 Currently building Python tools for data analytics and trading systems  
 
-Here are some ideas to get you started:
+## 📌 Projects
+- [Market Data Analysis](https://github.com/yourusername/market-data-analysis) — Fetch, clean, visualize financial data  
+- [Simple Backtesting Engine](https://github.com/yourusername/simple-backtesting-engine) — Implemented SMA crossover strategy  
+- [Python DSA Practice](https://github.com/yourusername/python-dsa-practice) — My clean DSA codes in Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me  
+- [LinkedIn](https://www.linkedin.com/in/gunjan-kumar-478632240)  
+- [Email](mailto:gunjan269kumar@gmail.com)  
+
+
+
+*Always exploring new challenges and learning opportunities!*  
